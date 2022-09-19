@@ -1,0 +1,24 @@
+<body>
+	<br />
+	<h1 class="title">Login or Register as a Pokémon Trainer</h1>
+
+	<br />
+	<form
+		class="user-input"
+		#createLoginForm="ngForm"
+		(ngSubmit)="onSubmit(createLoginForm)"
+	>
+		<input
+			type="text"
+			ngModel
+			#username="ngModel"
+			name="username"
+			required
+			placeholder="Enter trainer name here"
+		/>
+		<br />
+		<button type="submit" [disabled]="createLoginForm.form.invalid">
+			Login as Pokémon Trainer
+		</button>
+	</form>
+</body>

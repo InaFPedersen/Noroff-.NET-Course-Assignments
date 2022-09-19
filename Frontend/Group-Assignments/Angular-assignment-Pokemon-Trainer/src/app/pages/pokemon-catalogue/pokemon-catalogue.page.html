@@ -1,0 +1,6 @@
+<main class="main-content">
+	<p *ngIf="loading">Loading pokemons...</p>
+	<app-pokemon-catalogue-list
+		[pokemons]="listOfPokemons"
+	></app-pokemon-catalogue-list>
+</main>

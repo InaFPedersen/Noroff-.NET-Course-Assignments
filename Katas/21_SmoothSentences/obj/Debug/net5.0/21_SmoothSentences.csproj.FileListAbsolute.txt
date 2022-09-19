@@ -1,0 +1,16 @@
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\bin\Debug\net5.0\21_SmoothSentences.exe
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\bin\Debug\net5.0\21_SmoothSentences.deps.json
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\bin\Debug\net5.0\21_SmoothSentences.runtimeconfig.json
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\bin\Debug\net5.0\21_SmoothSentences.runtimeconfig.dev.json
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\bin\Debug\net5.0\21_SmoothSentences.dll
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\bin\Debug\net5.0\ref\21_SmoothSentences.dll
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\bin\Debug\net5.0\21_SmoothSentences.pdb
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\obj\Debug\net5.0\21_SmoothSentences.csproj.AssemblyReference.cache
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\obj\Debug\net5.0\21_SmoothSentences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\obj\Debug\net5.0\21_SmoothSentences.AssemblyInfoInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\obj\Debug\net5.0\21_SmoothSentences.AssemblyInfo.cs
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\obj\Debug\net5.0\21_SmoothSentences.csproj.CoreCompileInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\obj\Debug\net5.0\21_SmoothSentences.dll
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\obj\Debug\net5.0\ref\21_SmoothSentences.dll
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\obj\Debug\net5.0\21_SmoothSentences.pdb
+C:\Users\IFloys\Documents\Noroff\katas\21_SmoothSentences\obj\Debug\net5.0\21_SmoothSentences.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\obj\Debug\net5.0\ReverseCodingChallenge1.csproj.AssemblyReference.cache
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\obj\Debug\net5.0\ReverseCodingChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\obj\Debug\net5.0\ReverseCodingChallenge1.AssemblyInfoInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\obj\Debug\net5.0\ReverseCodingChallenge1.AssemblyInfo.cs
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\obj\Debug\net5.0\ReverseCodingChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\bin\Debug\net5.0\ReverseCodingChallenge1.exe
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\bin\Debug\net5.0\ReverseCodingChallenge1.deps.json
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\bin\Debug\net5.0\ReverseCodingChallenge1.runtimeconfig.json
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\bin\Debug\net5.0\ReverseCodingChallenge1.runtimeconfig.dev.json
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\bin\Debug\net5.0\ReverseCodingChallenge1.dll
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\bin\Debug\net5.0\ref\ReverseCodingChallenge1.dll
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\bin\Debug\net5.0\ReverseCodingChallenge1.pdb
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\obj\Debug\net5.0\ReverseCodingChallenge1.dll
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\obj\Debug\net5.0\ref\ReverseCodingChallenge1.dll
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\obj\Debug\net5.0\ReverseCodingChallenge1.pdb
+C:\Users\IFloys\Documents\Noroff\katas\ReverseCodingChallenge1\obj\Debug\net5.0\ReverseCodingChallenge1.genruntimeconfig.cache

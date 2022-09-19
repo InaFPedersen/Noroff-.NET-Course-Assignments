@@ -1,0 +1,16 @@
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.csproj.AssemblyReference.cache
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.AssemblyInfoInputs.cache
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.AssemblyInfo.cs
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.csproj.CoreCompileInputs.cache
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\bin\Debug\net5.0\RPG-Characters.exe
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\bin\Debug\net5.0\RPG-Characters.deps.json
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\bin\Debug\net5.0\RPG-Characters.runtimeconfig.json
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\bin\Debug\net5.0\RPG-Characters.runtimeconfig.dev.json
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\bin\Debug\net5.0\RPG-Characters.dll
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\bin\Debug\net5.0\ref\RPG-Characters.dll
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\bin\Debug\net5.0\RPG-Characters.pdb
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.dll
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\obj\Debug\net5.0\ref\RPG-Characters.dll
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.pdb
+C:\Users\IFloys\Documents\Noroff\Assignments\BackEndAssignments\CSharpFundamentals\Assignment-CSharp-RPGCharacters\RPG-Characters\obj\Debug\net5.0\RPG-Characters.genruntimeconfig.cache

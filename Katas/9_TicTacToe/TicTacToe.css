@@ -1,0 +1,35 @@
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+.game-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 2px;
+    justify-content: center;
+    background-color: lightgrey;
+    padding: 4px;
+}
+#r1, #r2, #r3, #r4, #r5,
+#r6, #r7, #r8, #r9 {
+    width: 80px;
+    height: 52px;
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+#replay {
+    background-color: palegoldenrod;
+    width: 95px;
+    height: 60px;
+    border: 1px solid black;
+    font-size: 20px;
+    cursor: pointer; 
+    text-align: center;  
+}
+

@@ -1,0 +1,8 @@
+C:\Users\IFloys\source\repos\ExistsANumberHigher\bin\Debug\ExistsANumberHigher.exe.config
+C:\Users\IFloys\source\repos\ExistsANumberHigher\bin\Debug\ExistsANumberHigher.exe
+C:\Users\IFloys\source\repos\ExistsANumberHigher\bin\Debug\ExistsANumberHigher.pdb
+C:\Users\IFloys\source\repos\ExistsANumberHigher\obj\Debug\ExistsANumberHigher.csproj.AssemblyReference.cache
+C:\Users\IFloys\source\repos\ExistsANumberHigher\obj\Debug\ExistsANumberHigher.csproj.SuggestedBindingRedirects.cache
+C:\Users\IFloys\source\repos\ExistsANumberHigher\obj\Debug\ExistsANumberHigher.csproj.CoreCompileInputs.cache
+C:\Users\IFloys\source\repos\ExistsANumberHigher\obj\Debug\ExistsANumberHigher.exe
+C:\Users\IFloys\source\repos\ExistsANumberHigher\obj\Debug\ExistsANumberHigher.pdb

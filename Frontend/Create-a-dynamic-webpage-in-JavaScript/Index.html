@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 4 Create a dynamic webpage with JavaScript</title>
+    <style>
+        .grid-container {
+            display: grid;
+            grid-template-columns: auto auto;
+            padding: auto;
+        }
+        .grid-item {
+            background-color: powderblue;
+            border: 1px solid black;
+            padding: auto;
+            text-align: center;
+            font-size: 12px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .pcImage {
+           text-align: center;
+        }
+        .tittel {
+            background-color: lightgray;
+            border: 1px solid black;
+            padding: auto;
+            text-align: center;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: maroon; 
+        }
+    </style>
+</head>
+<body onload="start()">
+    <div class="tittel">
+        <h1> The Computer Store </h1>
+    </div>
+    <div class="grid-container">
+        <div class="grid-item">
+            <h2> The Bank </h2>
+            <h3> Nora Nordmann </h3>
+            <p> Your bank balance is: <span id="yourBankBalance" type="number" value="0"> </span> kr</p>
+            <p id="loanBalance"> Your Outstanding Loan is: <span id="loanBalanceNr" type="number" value="0"> </span> kr</p>
+            <button id="getLoan"> Get a loan </button>
+        </div>
+        <div class="grid-item">
+            <h2> The Workplace </h2>
+            <h3> Nora Nordmann </h3>
+            <p> Your Payment is: <span id="payBalance" type="number" value="0">  </span> kr</p>
+            <button id="workButton" value="0" > Work </button>
+            <button id="transferToBank"> Transfer to bank </button>
+            <button id="repayLoanButton"> Repay my loan </button>
+        </div>
+        <div class="grid-item">
+            <h2> Computers for sale! </h2>
+            <select id="availableComputers"></select>
+            <p id="features"></p>
+        </div>
+        <div class="grid-item">
+            <h3 id="computerName"></h3>
+            <p id="computerDescription"></p>
+            <p><span id="computerPrice" value="0"></span> kr</p>
+            <div id="pcImagePlace" class="pcImage"></div>
+            <button id="buyComputer"> Buy Now </button>
+        </div>
+    </div>
+    
+    <script src="ComputerStore.js"></script>
+
+</body>
+</html>

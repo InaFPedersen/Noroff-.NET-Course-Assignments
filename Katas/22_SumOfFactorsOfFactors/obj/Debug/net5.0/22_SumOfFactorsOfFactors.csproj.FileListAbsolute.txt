@@ -1,0 +1,16 @@
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\bin\Debug\net5.0\22_SumOfFactorsOfFactors.exe
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\bin\Debug\net5.0\22_SumOfFactorsOfFactors.deps.json
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\bin\Debug\net5.0\22_SumOfFactorsOfFactors.runtimeconfig.json
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\bin\Debug\net5.0\22_SumOfFactorsOfFactors.runtimeconfig.dev.json
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\bin\Debug\net5.0\22_SumOfFactorsOfFactors.dll
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\bin\Debug\net5.0\ref\22_SumOfFactorsOfFactors.dll
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\bin\Debug\net5.0\22_SumOfFactorsOfFactors.pdb
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\obj\Debug\net5.0\22_SumOfFactorsOfFactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\obj\Debug\net5.0\22_SumOfFactorsOfFactors.AssemblyInfoInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\obj\Debug\net5.0\22_SumOfFactorsOfFactors.AssemblyInfo.cs
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\obj\Debug\net5.0\22_SumOfFactorsOfFactors.csproj.CoreCompileInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\obj\Debug\net5.0\22_SumOfFactorsOfFactors.dll
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\obj\Debug\net5.0\ref\22_SumOfFactorsOfFactors.dll
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\obj\Debug\net5.0\22_SumOfFactorsOfFactors.pdb
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\obj\Debug\net5.0\22_SumOfFactorsOfFactors.genruntimeconfig.cache
+C:\Users\IFloys\Documents\Noroff\katas\22_SumOfFactorsOfFactors\obj\Debug\net5.0\22_SumOfFactorsOfFactors.csproj.AssemblyReference.cache

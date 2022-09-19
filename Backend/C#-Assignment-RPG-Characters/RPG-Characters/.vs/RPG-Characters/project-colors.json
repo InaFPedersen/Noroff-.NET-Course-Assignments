@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26786622-145c-4ed1-a42c-20e58d6564df": {
+      "ProjectGuid": "26786622-145c-4ed1-a42c-20e58d6564df",
+      "DisplayName": "RPG-Characters",
+      "ColorIndex": 0
+    },
+    "76dfcbd0-2a47-47ec-9acf-67a48df115e1": {
+      "ProjectGuid": "76dfcbd0-2a47-47ec-9acf-67a48df115e1",
+      "DisplayName": "RPGCharactersTesting",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,86 @@
+h1 {
+    text-align: center;
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 4rem;
+    font-weight: bold;
+
+    background-image: linear-gradient(
+        to right,
+        #20bf6b,
+        #2dc775,
+        #38d07e,
+        #42d888,
+        #4be192
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.container {
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.username {
+    color: #333;
+    font-size: 1.2rem;
+    padding: 0.8rem 2rem;
+    border-radius: 0.2rem;
+    background-image: linear-gradient(
+        to right,
+        #8decba,
+        #93edbd,
+        #98eec1,
+        #9eefc4,
+        #a3f0c7
+    );
+    border: none;
+    border-bottom: 0.3rem solid transparent;
+    transition: all 0.3s;
+}
+
+.username::-webkit-input-placeholder {
+    text-align: center;
+}
+
+.center-container {
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+select {
+    width: 25%;
+    border: 1px solid #8decba;
+    padding: 5px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.start {
+    margin-top: 4rem;
+    position: relative;
+    color: #20bf6b;
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+    font-weight: 700;
+    background: #ffffff;
+    padding: 15px 30px;
+    border: 2px solid #20bf6b;
+    border-radius: 6px;
+    cursor: pointer;
+    box-shadow: inset 0 0 0 0 #20bf6b;
+    transition: ease-out 1s;
+}
+
+.start:hover {
+    box-shadow: inset 200px 0 #20bf6b;
+    color: #fff;
+}
+
+.start:active {
+    top: 4px;
+}

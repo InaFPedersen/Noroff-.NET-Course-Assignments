@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\IFloys\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\IFloys\\.nuget\\packages"
+    ]
+  }
+}

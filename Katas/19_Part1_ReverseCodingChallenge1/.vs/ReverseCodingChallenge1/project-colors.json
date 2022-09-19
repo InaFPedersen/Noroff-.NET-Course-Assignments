@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a210e49d-0808-41fd-9add-b17ad361a25e": {
+      "ProjectGuid": "a210e49d-0808-41fd-9add-b17ad361a25e",
+      "DisplayName": "ReverseCodingChallenge1",
+      "ColorIndex": 0
+    },
+    "952f9418-d654-46e6-ab04-ca17cb84e363": {
+      "ProjectGuid": "952f9418-d654-46e6-ab04-ca17cb84e363",
+      "DisplayName": "ReverseChallenge5",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\bin\Debug\net5.0\20_PowerRanger.exe
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\bin\Debug\net5.0\20_PowerRanger.deps.json
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\bin\Debug\net5.0\20_PowerRanger.runtimeconfig.json
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\bin\Debug\net5.0\20_PowerRanger.runtimeconfig.dev.json
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\bin\Debug\net5.0\20_PowerRanger.dll
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\bin\Debug\net5.0\ref\20_PowerRanger.dll
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\bin\Debug\net5.0\20_PowerRanger.pdb
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\obj\Debug\net5.0\20_PowerRanger.csproj.AssemblyReference.cache
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\obj\Debug\net5.0\20_PowerRanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\obj\Debug\net5.0\20_PowerRanger.AssemblyInfoInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\obj\Debug\net5.0\20_PowerRanger.AssemblyInfo.cs
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\obj\Debug\net5.0\20_PowerRanger.csproj.CoreCompileInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\obj\Debug\net5.0\20_PowerRanger.dll
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\obj\Debug\net5.0\ref\20_PowerRanger.dll
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\obj\Debug\net5.0\20_PowerRanger.pdb
+C:\Users\IFloys\Documents\Noroff\katas\20_PowerRanger\obj\Debug\net5.0\20_PowerRanger.genruntimeconfig.cache

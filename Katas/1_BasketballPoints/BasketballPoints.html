@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Basketball Points</title>
+    <script src="BasketballPoints.js"></script>
+</head>
+<body>
+    <h1>Basketball Points Kata</h1>
+    <label>2Points scored in the game </label>
+    <br />
+    <input type="number" id="twoPoint" />
+    <br />
+    <br />
+
+    <label>3Points scored in the game </label>
+    <br />
+    <input type="number" id="threePoint" />
+    <br />
+    <br />
+    <button onclick="points()" >Generate Game Score</button>
+    <br />
+    <br />
+    <label>The total score of the game: </label>
+    <br />
+    <output id="score"></output>
+    <br />
+    <br />
+    <h2>Here is a random prediction generator of number of goals</h2>
+    <br />
+    <button onclick="predictedNumbers()">Generate random goals</button>
+    <p>The predicted amount of two point goals is: <span id="twoPointPredict"></span></p>
+    <br />
+    <p>The predicted amount of three point goals is: <span id="threePointPredict"></span></p>
+    <br />
+    <p>The predicted sum of all goals is: <span id="sumPredict"></span></p>
+</body>
+</html>

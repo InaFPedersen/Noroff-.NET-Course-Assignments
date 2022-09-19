@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4467c71-c532-4f9e-9599-1ec3638fd945": {
+      "ProjectGuid": "c4467c71-c532-4f9e-9599-1ec3638fd945",
+      "DisplayName": "16_ReplaceVowelWithAnotherCharacter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

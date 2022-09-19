@@ -1,0 +1,31 @@
+<ng-container *ngIf="pokemon?.isCaught && page === 'trainer'">
+	<div>
+		<img
+			src="{{ pokemon?.image }}"
+			alt="{{ pokemon?.name }}"
+			width="200"
+			height="200"
+			(error)="setDefaultPic()"
+		/>
+		<h3>{{ pokemon?.name }}</h3>
+	</div>
+	<button (click)="onRelease()">Release Pokemon</button>
+</ng-container>
+<ng-container *ngIf="page === 'catalogue'">
+	<div>
+		<img
+			src="{{ pokemon?.image }}"
+			alt="{{ pokemon?.name }}"
+			width="200"
+			height="200"
+			(error)="setDefaultPic()"
+		/>
+		<span>
+			<h3>
+				{{ pokemon?.name }}
+				<mat-icon *ngIf="!ifCaught()"> catching_pokemon </mat-icon>
+			</h3>
+		</span>
+	</div>
+	<button (click)="onCatch()">Catch Pokemon</button>
+</ng-container>

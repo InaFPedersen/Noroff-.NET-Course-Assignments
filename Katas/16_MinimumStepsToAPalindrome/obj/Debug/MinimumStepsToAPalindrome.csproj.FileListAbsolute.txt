@@ -1,0 +1,8 @@
+C:\Users\IFloys\source\repos\MinimumStepsToAPalindrome\bin\Debug\MinimumStepsToAPalindrome.exe.config
+C:\Users\IFloys\source\repos\MinimumStepsToAPalindrome\bin\Debug\MinimumStepsToAPalindrome.exe
+C:\Users\IFloys\source\repos\MinimumStepsToAPalindrome\bin\Debug\MinimumStepsToAPalindrome.pdb
+C:\Users\IFloys\source\repos\MinimumStepsToAPalindrome\obj\Debug\MinimumStepsToAPalindrome.csproj.AssemblyReference.cache
+C:\Users\IFloys\source\repos\MinimumStepsToAPalindrome\obj\Debug\MinimumStepsToAPalindrome.csproj.SuggestedBindingRedirects.cache
+C:\Users\IFloys\source\repos\MinimumStepsToAPalindrome\obj\Debug\MinimumStepsToAPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\IFloys\source\repos\MinimumStepsToAPalindrome\obj\Debug\MinimumStepsToAPalindrome.exe
+C:\Users\IFloys\source\repos\MinimumStepsToAPalindrome\obj\Debug\MinimumStepsToAPalindrome.pdb

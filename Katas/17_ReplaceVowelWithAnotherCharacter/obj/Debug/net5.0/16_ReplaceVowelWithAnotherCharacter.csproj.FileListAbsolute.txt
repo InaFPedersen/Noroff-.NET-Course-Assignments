@@ -1,0 +1,16 @@
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\bin\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.exe
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\bin\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.deps.json
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\bin\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.runtimeconfig.json
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\bin\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.runtimeconfig.dev.json
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\bin\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.dll
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\bin\Debug\net5.0\ref\16_ReplaceVowelWithAnotherCharacter.dll
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\bin\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.pdb
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\obj\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.csproj.AssemblyReference.cache
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\obj\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\obj\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.AssemblyInfoInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\obj\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.AssemblyInfo.cs
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\obj\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.csproj.CoreCompileInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\obj\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.dll
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\obj\Debug\net5.0\ref\16_ReplaceVowelWithAnotherCharacter.dll
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\obj\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.pdb
+C:\Users\IFloys\Documents\Noroff\katas\16_ReplaceVowelWithAnotherCharacter\obj\Debug\net5.0\16_ReplaceVowelWithAnotherCharacter.genruntimeconfig.cache

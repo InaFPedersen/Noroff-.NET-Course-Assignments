@@ -1,0 +1,16 @@
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\obj\Debug\net5.0\ConvertNumberToCorrespondingMonthName.csproj.AssemblyReference.cache
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\obj\Debug\net5.0\ConvertNumberToCorrespondingMonthName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\obj\Debug\net5.0\ConvertNumberToCorrespondingMonthName.AssemblyInfoInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\obj\Debug\net5.0\ConvertNumberToCorrespondingMonthName.AssemblyInfo.cs
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\obj\Debug\net5.0\ConvertNumberToCorrespondingMonthName.csproj.CoreCompileInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\bin\Debug\net5.0\ConvertNumberToCorrespondingMonthName.exe
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\bin\Debug\net5.0\ConvertNumberToCorrespondingMonthName.deps.json
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\bin\Debug\net5.0\ConvertNumberToCorrespondingMonthName.runtimeconfig.json
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\bin\Debug\net5.0\ConvertNumberToCorrespondingMonthName.runtimeconfig.dev.json
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\bin\Debug\net5.0\ConvertNumberToCorrespondingMonthName.dll
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\bin\Debug\net5.0\ref\ConvertNumberToCorrespondingMonthName.dll
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\bin\Debug\net5.0\ConvertNumberToCorrespondingMonthName.pdb
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\obj\Debug\net5.0\ConvertNumberToCorrespondingMonthName.dll
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\obj\Debug\net5.0\ref\ConvertNumberToCorrespondingMonthName.dll
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\obj\Debug\net5.0\ConvertNumberToCorrespondingMonthName.pdb
+C:\Users\IFloys\Documents\Noroff\katas\ConvertNumberToCorrespondingMonthName\obj\Debug\net5.0\ConvertNumberToCorrespondingMonthName.genruntimeconfig.cache

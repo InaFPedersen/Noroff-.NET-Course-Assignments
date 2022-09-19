@@ -1,0 +1,16 @@
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\obj\Debug\net5.0\24_ConvertMinutesIntoSeconds.csproj.AssemblyReference.cache
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\obj\Debug\net5.0\24_ConvertMinutesIntoSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\obj\Debug\net5.0\24_ConvertMinutesIntoSeconds.AssemblyInfoInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\obj\Debug\net5.0\24_ConvertMinutesIntoSeconds.AssemblyInfo.cs
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\obj\Debug\net5.0\24_ConvertMinutesIntoSeconds.csproj.CoreCompileInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\bin\Debug\net5.0\24_ConvertMinutesIntoSeconds.exe
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\bin\Debug\net5.0\24_ConvertMinutesIntoSeconds.deps.json
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\bin\Debug\net5.0\24_ConvertMinutesIntoSeconds.runtimeconfig.json
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\bin\Debug\net5.0\24_ConvertMinutesIntoSeconds.runtimeconfig.dev.json
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\bin\Debug\net5.0\24_ConvertMinutesIntoSeconds.dll
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\bin\Debug\net5.0\ref\24_ConvertMinutesIntoSeconds.dll
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\bin\Debug\net5.0\24_ConvertMinutesIntoSeconds.pdb
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\obj\Debug\net5.0\24_ConvertMinutesIntoSeconds.dll
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\obj\Debug\net5.0\ref\24_ConvertMinutesIntoSeconds.dll
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\obj\Debug\net5.0\24_ConvertMinutesIntoSeconds.pdb
+C:\Users\IFloys\Documents\Noroff\katas\24_ConvertMinutesIntoSeconds\obj\Debug\net5.0\24_ConvertMinutesIntoSeconds.genruntimeconfig.cache

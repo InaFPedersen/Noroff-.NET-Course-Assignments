@@ -1,0 +1,13 @@
+<body>
+	<h1 class="title">Trainer {{ trainer?.username }}</h1>
+	<section class="pokemon-list">
+		<h2>List of Pokémon:</h2>
+		<div class="grid-container">
+			<app-pokemon-item
+				*ngFor="let pokemon of trainer?.pokemon"
+				[page]="page"
+				[pokemon]="pokemon"
+			></app-pokemon-item>
+		</div>
+	</section>
+</body>

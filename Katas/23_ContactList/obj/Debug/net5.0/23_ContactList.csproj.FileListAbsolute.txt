@@ -1,0 +1,16 @@
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\obj\Debug\net5.0\23_ContactList.csproj.AssemblyReference.cache
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\obj\Debug\net5.0\23_ContactList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\obj\Debug\net5.0\23_ContactList.AssemblyInfoInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\obj\Debug\net5.0\23_ContactList.AssemblyInfo.cs
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\obj\Debug\net5.0\23_ContactList.csproj.CoreCompileInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\bin\Debug\net5.0\23_ContactList.exe
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\bin\Debug\net5.0\23_ContactList.deps.json
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\bin\Debug\net5.0\23_ContactList.runtimeconfig.json
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\bin\Debug\net5.0\23_ContactList.runtimeconfig.dev.json
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\bin\Debug\net5.0\23_ContactList.dll
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\bin\Debug\net5.0\ref\23_ContactList.dll
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\bin\Debug\net5.0\23_ContactList.pdb
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\obj\Debug\net5.0\23_ContactList.dll
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\obj\Debug\net5.0\ref\23_ContactList.dll
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\obj\Debug\net5.0\23_ContactList.pdb
+C:\Users\IFloys\Documents\Noroff\katas\23_ContactList\obj\Debug\net5.0\23_ContactList.genruntimeconfig.cache

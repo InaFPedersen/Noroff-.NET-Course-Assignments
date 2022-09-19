@@ -1,0 +1,70 @@
+.userForm,
+label,
+input {
+    display: block;
+}
+
+input {
+    width: 100%;
+    border: 2px solid #aaa;
+    border-radius: 4px;
+    margin: 8px 0;
+    outline: none;
+    padding: 8px;
+    box-sizing: border-box;
+    transition: 0.3s;
+}
+
+/* Navbar menu right aligned */
+.right-aligned {
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+
+/* remove right aligned arrow from navbar */
+
+.dropdown-toggle::after {
+    display: none !important;
+}
+
+/* Add left aligned arrow to navbar */
+
+.dropdown-toggle::before {
+    display: inline-block;
+    margin-right: 0.255em;
+    vertical-align: 0.205em;
+    content: "";
+    border-top: 0.3em solid;
+    border-right: 0.3em solid transparent;
+    border-bottom: 0;
+    border-left: 0.3em solid transparent;
+}
+
+/* Some margin for Navbar calendar icon */
+
+.bi {
+    margin-right: 5px;
+}
+
+/* Container to center some buttons */
+
+.button-container {
+    text-align: center;
+}
+
+.login-container {
+    height: 65vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-picture {
+    max-height: 400px;
+    margin: 20px 0;
+    padding: 5px; 
+    border-width: 8px;
+    border-style: double;
+    Border-color: #ddd;
+}

@@ -1,0 +1,16 @@
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\bin\Debug\net5.0\19_Part2_ReverseCodingChallenge5.exe
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\bin\Debug\net5.0\19_Part2_ReverseCodingChallenge5.deps.json
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\bin\Debug\net5.0\19_Part2_ReverseCodingChallenge5.runtimeconfig.json
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\bin\Debug\net5.0\19_Part2_ReverseCodingChallenge5.runtimeconfig.dev.json
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\bin\Debug\net5.0\19_Part2_ReverseCodingChallenge5.dll
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\bin\Debug\net5.0\ref\19_Part2_ReverseCodingChallenge5.dll
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\bin\Debug\net5.0\19_Part2_ReverseCodingChallenge5.pdb
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\obj\Debug\net5.0\19_Part2_ReverseCodingChallenge5.csproj.AssemblyReference.cache
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\obj\Debug\net5.0\19_Part2_ReverseCodingChallenge5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\obj\Debug\net5.0\19_Part2_ReverseCodingChallenge5.AssemblyInfoInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\obj\Debug\net5.0\19_Part2_ReverseCodingChallenge5.AssemblyInfo.cs
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\obj\Debug\net5.0\19_Part2_ReverseCodingChallenge5.csproj.CoreCompileInputs.cache
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\obj\Debug\net5.0\19_Part2_ReverseCodingChallenge5.dll
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\obj\Debug\net5.0\ref\19_Part2_ReverseCodingChallenge5.dll
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\obj\Debug\net5.0\19_Part2_ReverseCodingChallenge5.pdb
+C:\Users\IFloys\Documents\Noroff\katas\19_Part2_ReverseCodingChallenge5\obj\Debug\net5.0\19_Part2_ReverseCodingChallenge5.genruntimeconfig.cache

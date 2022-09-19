@@ -1,0 +1,28 @@
+body {
+	background-color: blue;
+}
+.title {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	font-size: x-large;
+	color: gold;
+	text-align: center;
+}
+
+.user-input {
+	padding: 2px;
+	margin: 2px 0;
+	background-color: red;
+	text-align: center;
+}
+button {
+	background-color: lightgray;
+	color: black;
+	border-color: black;
+	text-align: center;
+}
+input {
+	background-color: aliceblue;
+	color: black;
+	border-color: black;
+	text-align: center;
+}
